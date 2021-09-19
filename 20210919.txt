@@ -1,0 +1,7 @@
+- Study in Beakjoon, Brinz 1
+- Solved 45 problems
+
+- Main langage : C
+- Can implement : ~ array
+
+- Now : I'm baby!
